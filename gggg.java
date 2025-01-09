@@ -10,6 +10,6 @@ package lab6;
  *
  * @author 2023f-bse-133
  */
-public class NewClass {
+public class gggg {
     
 }
